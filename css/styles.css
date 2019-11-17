@@ -1,0 +1,16 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    background: #333;
+}
+
+h1 {
+    color: #80FF00;
+}
+
+.terminal {
+    color: #80FF00 !important;
+}
+
+a {
+    color: #80FF00;
+}
